@@ -16,11 +16,6 @@ Whether you're developing an RPG, RTS, 4X game, immersive sim, colony manager, h
 - **Networking Support**: Implement multiplayer functionality and networked gameplay with Panopticon's built-in networking support.
 - **Audio and Sound Effects**: Create immersive audio experiences with support for various audio formats and sound effects.
 
-## Getting Started
+## More
 
-Follow these steps to get started with Panopticon:
-
-1. Clone the Panopticon repository:
-
-   ```shell
-   git clone https://github.com/your-username/panopticon.git
+Check out the .md files in each subdirectory for more information.
