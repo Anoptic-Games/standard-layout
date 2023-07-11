@@ -1,6 +1,6 @@
 # Panopticon Game Engine
 
-![Panopticon Logo](/resources/logo.svg)
+![Panopticon Logo](/resources/logo.png)
 
 Panopticon is a high-performance and dynamic game engine designed to handle large numbers of entities and events occurring simultaneously. 
 Whether you're developing an RPG, RTS, 4X game, immersive sim, colony manager, high player-count multiplayer, or any other complex simulation, Panopticon provides the tools and flexibility you need.
